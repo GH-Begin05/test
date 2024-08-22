@@ -1,4 +1,4 @@
-/**/;
+/*test on August22*/;
 data testdata;
 set clm;
 run;
